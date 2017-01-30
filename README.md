@@ -14,6 +14,6 @@ $ git clone https://github.com/supertaihei02/trello-ext.git
 * 2.デベロッパー モードをオン
 * 3.「パッケージ化されていない拡張機能を読み込む」
 * 4.chrome_extentsion/appを選択
-* 5.Trelloにアクセス（https://trello.com/）
+* 5.Trelloにアクセス https://trello.com/
 
 
