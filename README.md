@@ -7,6 +7,9 @@ $ git clone https://github.com/supertaihei02/trello-ext.git
 
 ## chrome extenstion
 ### How to install
+
+![イメージ](https://github.com/supertaihei02/trello-ext/blob/master/project/images/chrome-setting1.png?raw=true)
+
 * 1.Chromeの拡張機能設定
 * 2.デベロッパー モードをオン
 * 3.「パッケージ化されていない拡張機能を読み込む」
