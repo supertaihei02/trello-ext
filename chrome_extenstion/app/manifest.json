@@ -20,5 +20,6 @@
       "scripts/background.js"
     ]
   },
-  "permissions": []
+  "permissions": [],
+  "web_accessible_resources": ["backgrounds.json"]
 }

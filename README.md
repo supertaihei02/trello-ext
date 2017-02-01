@@ -1,5 +1,12 @@
 # Trello-Ext
 
+## 機能
+
+Trelloを少しだけ弄ります
+
+* Chrome Extension 背景画像を切り替える
+
+
 ## init
 ``` bash
 $ git clone https://github.com/supertaihei02/trello-ext.git
